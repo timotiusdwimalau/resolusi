@@ -4,8 +4,6 @@ Rencana Program :
 - Website Toko Online
 = Shopee KW
 - Website Perusahaan
-= Tokopedia
-  - Shopee
 - Website Perpustakaan
 - Website Film
 = Avenger
