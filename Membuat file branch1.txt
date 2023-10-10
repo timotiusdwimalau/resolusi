@@ -1,2 +1,6 @@
-Rencana Wesite :
--Website Belanja
+Rencana Program :
+- Website Perpustakaan
+- Website Toko Online
+= Shopee KW
+- Website Perusahaan
+- Website Sekolah
