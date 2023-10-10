@@ -1,9 +1,6 @@
 Rencana Program :
 - Website Tidur
 - Website Perpustakaan
-- Website Youtube
-- Website Ujian
-- Website Perusahaan
 = Tokopedia
 - Website Perpustakaan
 - Website Film
